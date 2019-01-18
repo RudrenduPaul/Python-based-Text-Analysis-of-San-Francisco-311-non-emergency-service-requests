@@ -49,7 +49,7 @@ For the neighbourhood: Nob Hill,
 Using text analysis in Python,
 
 
-![annotation 2019-01-18 112931](https://user-images.githubusercontent.com/38769913/51399726-a1d69000-1b14-11e9-839e-1abdb97a2687.jpg)
+![annotation 2019-01-18 113351](https://user-images.githubusercontent.com/38769913/51400440-6b017980-1b16-11e9-9d67-8b736ce4ac37.jpg)
 
 
 ![annotation 2019-01-18 113441](https://user-images.githubusercontent.com/38769913/51400090-7f914200-1b15-11e9-8003-663b64639afa.jpg)
