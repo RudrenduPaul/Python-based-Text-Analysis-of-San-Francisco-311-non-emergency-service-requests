@@ -17,7 +17,7 @@ E) Data Variables (Column names/type):
   9) Request Type - (Text);  10) Request Details - (Text);  11) Address - (Text);  12) Supervisor District - (Numeric); 
   13) Neighborhood - (Text);  14) Point - (Geometry: Point);  15) Source - (Text); Media URL - (Text);
 
-<img width="361" alt="data dictionary" src="https://user-images.githubusercontent.com/38769913/51399424-edd50500-1b13-11e9-9fd6-a7b75a84b73e.PNG">
+<img width="800" alt="data dictionary" src="https://user-images.githubusercontent.com/38769913/51399424-edd50500-1b13-11e9-9fd6-a7b75a84b73e.PNG">
 
 ---- Actionable insights from San Francisco 311 request dataset ----
 
