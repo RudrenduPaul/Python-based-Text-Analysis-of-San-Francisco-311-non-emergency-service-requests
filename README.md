@@ -35,15 +35,32 @@ For the neighborhood: Mission,
 1) 311 External Requests (increasing trend in number of requests) and
 2) Tree_Maintenance (decreasing trend in in number of requests)
 
-![annotation 2019-01-18 112856](https://user-images.githubusercontent.com/38769913/51399654-7489e200-1b14-11e9-83b5-a032710a29d8.jpg)
+
+![annotation 2019-01-18 113547](https://user-images.githubusercontent.com/38769913/51400016-52449400-1b15-11e9-8820-8a5dfd5a0280.jpg)
+
+
+![annotation 2019-01-18 113414](https://user-images.githubusercontent.com/38769913/51400072-73a58000-1b15-11e9-9907-31087a537d80.jpg)
 
 
 For the neighbourhood: Nob Hill,
 1) Graffiti Private Property (increasing trend in number of requests) &
 2) Sidewalk or Curb (decreasing trend in in number of requests)
+
 Using text analysis in Python,
 
+
 ![annotation 2019-01-18 112931](https://user-images.githubusercontent.com/38769913/51399726-a1d69000-1b14-11e9-839e-1abdb97a2687.jpg)
+
+
+![annotation 2019-01-18 113441](https://user-images.githubusercontent.com/38769913/51400090-7f914200-1b15-11e9-8003-663b64639afa.jpg)
+
+
+Missing data where the text mining techniques cannot be applied (can be due to gerrymandering) due to abrupt change in trend of issues in that neighborhood:
+
+![annotation 2019-01-18 113351](https://user-images.githubusercontent.com/38769913/51400043-64becd80-1b15-11e9-9b01-751978f607be.jpg)
+
+![image](https://user-images.githubusercontent.com/38769913/51400291-09410f80-1b16-11e9-8616-a091b50c354f.png)
+
 
 1) the top 10 most important call request issues were identified for the request types with increasing trend in number of requests received and,
 2) the 10 least important call request issues were identified the request type with decreasing trend in number of requests received
