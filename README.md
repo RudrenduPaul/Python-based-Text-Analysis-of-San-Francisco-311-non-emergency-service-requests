@@ -43,3 +43,5 @@ Using text analysis in Python,
 The above analysis was done for the years 2015 & 2016 only (among the period 2008 to 2017) for the most recent trend associated with each request type. The data for 2017 was not used because data for the entire year 2017 was not available.
 
 Based on the above analysis, actionable insights for the managers in the 311 departments can be a more efficient resource allocation by transfering the resources associated with the bottom most 10 types of issues for the category with decreasing trend to the top 10 most important issues for the category with increasing trend for each of the above neighborhood.
+
+
