@@ -1,5 +1,7 @@
 # Python based Text Analysis of San Francisco 311 non emergency dataset
 
+(Please open the file: Python based Data Mining for Text Analysis on dataset of 311 non emergency.ipynb for detailed analysis)
+
 Data Mining for better resource allocation to better serve 311 non emergencies at San Franscisco
 
 Data was taken from https://www.kaggle.com/datasf/case-data-from-san-francisco-311
