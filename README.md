@@ -2,7 +2,7 @@
 
 Data Mining for better resource allocation to better serve 311 non emergencies at San Franscisco
 
-Data was taken 
+Data was taken from https://www.kaggle.com/datasf/case-data-from-san-francisco-311
 
 Dataset description:
 A) Size of dataset: 16 X 2022095
@@ -15,7 +15,8 @@ E) Data Variables (Column names/type):
   9) Request Type - (Text);  10) Request Details - (Text);  11) Address - (Text);  12) Supervisor District - (Numeric); 
   13) Neighborhood - (Text);  14) Point - (Geometry: Point);  15) Source - (Text); Media URL - (Text);
 
-Actionable insights from San Francisco 311 request dataset
+---- Actionable insights from San Francisco 311 request dataset ----
+
 The dataset consists of details for San Francisco's 311 call requests along with the phone call descriptions for the period 2008 to 2017.
 
 The data set was narrowed down to 6 target neighborhoods at San Franscisco. 2 neighborhoods were chosen for further analysis where there were no abrupt changes in the number of complains over the period 2008 to 2017. For the remaining 4 neighborhoods, the complaints changed abrupty over the timeline, indicating that the state borders may have chnaged over the years.
@@ -29,6 +30,7 @@ The following category requests were chosen for each neighborhood.
 For the neighborhood: Mission,
 1) 311 External Requests (increasing trend in number of requests) and
 2) Tree_Maintenance (decreasing trend in in number of requests)
+
 For the neighbourhood: Nob Hill,
 1) Graffiti Private Property (increasing trend in number of requests) &
 2) Sidewalk or Curb (decreasing trend in in number of requests)
