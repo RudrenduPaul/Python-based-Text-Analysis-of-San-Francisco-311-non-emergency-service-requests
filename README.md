@@ -43,6 +43,8 @@ For the neighbourhood: Nob Hill,
 2) Sidewalk or Curb (decreasing trend in in number of requests)
 Using text analysis in Python,
 
+![annotation 2019-01-18 112931](https://user-images.githubusercontent.com/38769913/51399726-a1d69000-1b14-11e9-839e-1abdb97a2687.jpg)
+
 1) the top 10 most important call request issues were identified for the request types with increasing trend in number of requests received and,
 2) the 10 least important call request issues were identified the request type with decreasing trend in number of requests received
 The above analysis was done for the years 2015 & 2016 only (among the period 2008 to 2017) for the most recent trend associated with each request type. The data for 2017 was not used because data for the entire year 2017 was not available.
