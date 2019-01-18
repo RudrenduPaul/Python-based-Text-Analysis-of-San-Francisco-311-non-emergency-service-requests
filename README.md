@@ -48,9 +48,7 @@ For the neighbourhood: Nob Hill,
 
 Using text analysis in Python,
 
-
-![annotation 2019-01-18 113351](https://user-images.githubusercontent.com/38769913/51400440-6b017980-1b16-11e9-9d67-8b736ce4ac37.jpg)
-
+![annotation 2019-01-18 113245](https://user-images.githubusercontent.com/38769913/51400537-aa2fca80-1b16-11e9-9872-6d51c67d86e8.jpg)
 
 ![annotation 2019-01-18 113441](https://user-images.githubusercontent.com/38769913/51400090-7f914200-1b15-11e9-8003-663b64639afa.jpg)
 
