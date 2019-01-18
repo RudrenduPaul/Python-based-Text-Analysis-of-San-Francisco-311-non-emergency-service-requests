@@ -2,12 +2,18 @@
 
 Data Mining for better resource allocation to better serve 311 non emergencies at San Franscisco
 
-Size of dataset: 16 * 2022095.
-Period: July 2008 to Oct. 2016.
-Location: San Francisco.
-Missing data: Total 2702233 (8.35% of total dataset). 
-Column names/type: CaseID - (Numeric); Opened - (Timestamp); Closed - (Timestamp); Updated - (Timestamp); Status - (Text); Status Notes - (Text); Responsible Agency - (Text); Category - (Text); Request Type - (Text); Request Details - (Text); Address - (Text); Supervisor District - (Numeric); Neighborhood - (Text); Point - (Geometry: Point); Source - (Text); Media URL - (Text);
+Data was taken 
 
+Dataset description:
+A) Size of dataset: 16 X 2022095
+B) Period: July 2008 to Oct. 2016
+C) Location: San Francisco
+D) Missing data: Total 2702233 (8.35% of total dataset) 
+E) Data Variables (Column names/type):
+  1) CaseID - (Numeric);  2) Opened - (Timestamp);  3) Closed - (Timestamp);  4) Updated - (Timestamp); 
+  5) Status - (Text);  6) Status Notes - (Text);  7) Responsible Agency - (Text);  8) Category - (Text); 
+  9) Request Type - (Text);  10) Request Details - (Text);  11) Address - (Text);  12) Supervisor District - (Numeric); 
+  13) Neighborhood - (Text);  14) Point - (Geometry: Point);  15) Source - (Text); Media URL - (Text);
 
 Actionable insights from San Francisco 311 request dataset
 The dataset consists of details for San Francisco's 311 call requests along with the phone call descriptions for the period 2008 to 2017.
