@@ -35,6 +35,9 @@ For the neighborhood: Mission,
 1) 311 External Requests (increasing trend in number of requests) and
 2) Tree_Maintenance (decreasing trend in in number of requests)
 
+![annotation 2019-01-18 112856](https://user-images.githubusercontent.com/38769913/51399654-7489e200-1b14-11e9-83b5-a032710a29d8.jpg)
+
+
 For the neighbourhood: Nob Hill,
 1) Graffiti Private Property (increasing trend in number of requests) &
 2) Sidewalk or Curb (decreasing trend in in number of requests)
